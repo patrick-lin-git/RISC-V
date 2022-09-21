@@ -1,1 +1,1 @@
-# RISV-V
+# RISC-V
